@@ -168,7 +168,7 @@ var alumnos = [
   let aprobados = " "
   let alumnosAprobados = alumnos.map(function(alumno){
       if (alumno.nota >= 7){
-          aprobados += alumno.nombre
+          aprobados += alumno.nombre + " "
           return aprobados + " "
       }
 
