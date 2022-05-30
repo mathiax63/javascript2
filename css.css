@@ -1,0 +1,19 @@
+.cuadrado{
+    width: 300px;
+    height: 300px;
+    margin: 5%;
+    background-color: yellow;
+}
+.cuadrado2{
+    width: 300px;
+    height: 300px;
+    margin: 5%;
+    background-color: aqua;
+}
+
+.cuadrado3{
+    width: 300px;
+    height: 300px;
+    margin: 5%;
+    background-color: yellowgreen;
+}
